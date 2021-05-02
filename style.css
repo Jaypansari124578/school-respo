@@ -1,0 +1,44 @@
+#video {
+    margin-top: 30px;
+}
+
+
+#video iframe {
+    width: 100%;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+#maps iframe {
+    width: 100%;
+}
+
+.jjff {
+
+    width: 50%;
+    margin-top: 20px;
+}
+
+.modal-body {
+    text-align: center
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.spetial {
+    width: 90%;
+    height: 40%;
+}
